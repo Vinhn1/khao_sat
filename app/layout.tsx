@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Hụi · Khảo sát nhu cầu",description:"Cùng làm rõ cách quản lý và khui hụi của anh/chị."}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="vi"><body>{children}</body></html>}
